@@ -14,7 +14,7 @@ public class Main {
 		g.loadSampleData();
 
 		//Uncomment the following line to enter the initial state manually
-		g.readInitialState();
+		//g.readInitialState();
 		
 		System.out.println("=============");
 		System.out.println("Initial State");
